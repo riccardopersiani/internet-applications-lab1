@@ -1,0 +1,9 @@
+package it.polito.ai.businesslogic;
+
+public enum TravelDocumentTypes {
+	CORSA_SINGOLA_URBANA,
+	CORSA_SINGOLA_SUBURBANA,
+	BIGLIETTO_GIORNALIERO,
+	ABBONAMENTO_SETTIMANALE,
+	ABBONAMENTO_MENSILE
+}
